@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22.960001mm"
+   height="10.26mm"
+   viewBox="0 0 22.960001 10.26"
+   version="1.1"
+   id="svg14578"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="led-strip.svg">
+  <defs
+     id="defs14572" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.2"
+     inkscape:cx="36.800339"
+     inkscape:cy="13.34935"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid15123"
+       units="mm"
+       spacingx="1.27"
+       spacingy="1.27"
+       originx="-2.49"
+       originy="0.049996184" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata14575">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="レイヤー 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-2.49,-286.79)">
+    <rect
+       style="opacity:1;fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect15125"
+       width="22.860001"
+       height="10.16"
+       x="2.54"
+       y="286.84" />
+    <path
+       style="fill:#d69d00;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 2.54,288.745 c 0,0 2.5399999,0 2.5399999,0.635 0,0.635 -2.5399999,0.635 -2.5399999,0.635 v -0.635 z"
+       id="path15127"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#d69d00;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 2.54,291.285 c 0,0 2.5399999,0 2.5399999,0.635 0,0.635 -2.5399999,0.635 -2.5399999,0.635 v -0.635 z"
+       id="path15127-7"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#d69d00;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 2.54,293.825 c 0,0 2.5399999,0 2.5399999,0.635 0,0.635 -2.5399999,0.635 -2.5399999,0.635 v -0.635 z"
+       id="path15127-6"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect15150"
+       width="7.6199989"
+       height="7.6200128"
+       x="11.43"
+       y="288.10999" />
+    <path
+       style="opacity:1;fill:#ffffcc;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="path15152"
+       sodipodi:type="arc"
+       sodipodi:cx="15.24"
+       sodipodi:cy="291.92001"
+       sodipodi:rx="2.54"
+       sodipodi:ry="2.54"
+       sodipodi:start="5.8951812"
+       sodipodi:end="5.8950936"
+       sodipodi:open="true"
+       d="m 17.591191,290.95903 a 2.54,2.54 0 0 1 -1.390152,3.31215 2.54,2.54 0 0 1 -3.312189,-1.39008 2.54,2.54 0 0 1 1.390008,-3.31222 2.54,2.54 0 0 1 3.312249,1.38994" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.0583334px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="6.3499999"
+       y="289.38"
+       id="text15156"><tspan
+         sodipodi:role="line"
+         id="tspan15154"
+         x="6.3499999"
+         y="289.38"
+         style="stroke-width:0.26458332">GND</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.0583334px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="6.3499999"
+       y="291.92001"
+       id="text15160"><tspan
+         sodipodi:role="line"
+         id="tspan15158"
+         x="6.3499999"
+         y="291.92001"
+         style="stroke-width:0.26458332">DIN</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.0583334px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="6.3499999"
+       y="294.45999"
+       id="text15164"><tspan
+         sodipodi:role="line"
+         id="tspan15162"
+         x="6.3499999"
+         y="294.45999"
+         style="stroke-width:0.26458332">5V</tspan></text>
+  </g>
+</svg>
